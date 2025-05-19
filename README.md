@@ -1,4 +1,7 @@
 # Tugas1_Visi_Komputer
+## Nama : Wilson Boyaron Hutagalung
+## Nim  : 2209106035
+
 # 1. Klasifikasi Gambar dengan Machine Learning
 ## Car and Bike Classification using HOG + RandomForest
 #### Proyek ini merupakan implementasi klasifikasi gambar menggunakan fitur `Histogram of Oriented Gradients (HOG)` dan model `RandomForest` untuk mengklasifikasikan apakah sebuah gambar menunjukkan objek berupa `motor` atau `mobil`. Metode HOG digunakan untuk mengekstrak fitur bentuk dan kontur objek secara efisien, sementara RandomForest digunakan sebagai model klasifikasi yang andal terhadap data citra berbasis bentuk visual.
