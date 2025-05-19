@@ -10,7 +10,7 @@
 
 <hr>
 
-
+# 2. Klasifikasi dengan Machine Learning
 ## 🛫 Airline Delay Classification using PCA + Random Forest
 
 #### Proyek ini bertujuan untuk melakukan klasifikasi `Airlines (maskapai)` berdasarkan data operasional penerbangan menggunakan metode `Principal Component Analysis (PCA)` untuk reduksi dimensi, serta model `Random Forest` untuk klasifikasi. Dataset yang digunakan berasal dari Kaggle dan berisi informasi seperti waktu keberangkatan, bandara asal/tujuan, dan status keterlambatan penerbangan. PCA digunakan untuk mengurangi kompleksitas dan multikolinearitas antar fitur, sehingga model lebih efisien tanpa kehilangan informasi penting. Random Forest dipilih karena kemampuannya yang andal dalam menangani data tabular dan menangkap hubungan non-linear antara fitur-fitur operasional dan identitas maskapai, sehingga menghasilkan klasifikasi yang akurat dan tahan terhadap overfitting.
